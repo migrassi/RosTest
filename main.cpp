@@ -10,5 +10,5 @@ int foo() {
 }
 
 int main() {
-	std::coout << foo();
+	cout << foo();
 }
