@@ -6,9 +6,10 @@
 using namespace std;
 
 int foo() {
+	cout << 4;
 	return 5;
 }
 
 int main() {
-	std::coout << foo();
+	cout << foo();
 }
