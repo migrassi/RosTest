@@ -4,6 +4,10 @@
 
 using namespace std;
 
-int main() {
+int foo() {
+	return 5;
+}
 
+int main() {
+	std::coout << foo();
 }
