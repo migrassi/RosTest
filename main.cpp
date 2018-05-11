@@ -1,11 +1,11 @@
-
+#include <iostream>
 
 #include "main.h"
-#include <io.h>
 
 using namespace std;
 
 int foo() {
+	cout << "pepe";
 	return 5;
 }
 
