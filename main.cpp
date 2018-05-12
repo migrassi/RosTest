@@ -5,10 +5,10 @@
 using namespace std;
 
 int foo() {
-	cout << "pepe";
+	cout << "pepe" << endl;
 	return 5;
 }
 
 int main() {
-	cout << foo();
+	cout << foo() << endl;
 }
