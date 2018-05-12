@@ -8,3 +8,4 @@ main.o: main.cpp main.h
 
 clean:
 	rm -rf *.o 
+	
